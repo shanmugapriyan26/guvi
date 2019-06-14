@@ -1,5 +1,5 @@
-s,u=map(int,input().split())
-if(s<u):
-  for i in range(s,u+1):
+sri,u=map(int,input().split())
+if(sri<u):
+  for i in range(sri,u+1):
      if i%2==0:
         print(i,end=' ')
