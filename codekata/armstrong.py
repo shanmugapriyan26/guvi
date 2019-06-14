@@ -1,0 +1,12 @@
+u=int(input())
+a=u
+s=0
+while(u>0):
+  k=u%10
+  u=u//10
+  c=k**3
+  s=s+c
+if(a==s):
+  print('yes')
+else:
+  print('no')
