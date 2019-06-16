@@ -1,6 +1,6 @@
-s,p=map(int,input().split())
-temp=0
-temp=s
-s=p
-p=temp
-print(s,p)
+e,k=map(int,input().split())
+t=0
+t=e
+e=k
+k=t
+print(e,k)
