@@ -1,0 +1,5 @@
+s,u=map(int,input().split())
+t,v=map(int,input().split())
+p=abs(s-t)
+a=abs(u-v)
+print(p,a)
